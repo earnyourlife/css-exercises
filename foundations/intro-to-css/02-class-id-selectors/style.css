@@ -1,17 +1,21 @@
 /* Add CSS Styling */
-.number {
-    background-color: lightpink;
+.odd {
+    background-color:  rgb(255, 167, 167);
     font-size: 16px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.number#two {
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#two {
     color: blue;
     font-size: 32px;
-    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-.numberThree {
-    background-color: lightpink;
-    font-size: 22px;
-
+#four {
+    font-weight: bolder;
+    background-color: hsl(120, 100%, 75%);
 }
